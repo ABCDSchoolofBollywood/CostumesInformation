@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Costume Collection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .card {
+            width: 300px;
+            background: #fff;
+            margin: 10px;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .image-container {
+            position: relative;
+        }
+        .costume-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+        .toggle-btn {
+            margin: 5px;
+            padding: 5px 10px;
+            border: none;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .details {
+            display: flex;
+            justify-content: space-between;
+            text-align: left;
+            margin-top: 10px;
+        }
+        .bold-text {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Costume Cards will be inserted here dynamically -->
+    </div>
+    
+    <script>
+        const costumes = [
+            {
+                id: "1700",
+                name: "Black and Golden top and skirt",
+                gender: "Female",
+                category: "Adults/Teens (13-18yrs)",
+                size: "Custom size",
+                count: "16",
+                images: [
+                    "https://drive.google.com/uc?export=view&id=1H_Mso6GFYyHybufrj1g2klU8laowSQWx",
+                    "https://drive.google.com/uc?export=view&id=12fAotJ3qLjLpuoqvQdCVH5HmHxpQpeW8",
+                    "https://drive.google.com/uc?export=view&id=15_eGDMtXyxu7fiKWsCsvt3noZs7Rfhtw"
+                ]
+            }
+        ];
+
+        const container = document.querySelector(".container");
+
+        costumes.forEach(costume => {
+            let currentIndex = 0;
+            const card = document.createElement("div");
+            card.classList.add("card");
+
+            card.innerHTML = `
+                <div class="image-container">
+                    <img src="${costume.images[currentIndex]}" class="costume-image" id="image-${costume.id}">
+                    <div>
+                        <button class="toggle-btn" onclick="toggleImage('${costume.id}', -1)">⬅</button>
+                        <button class="toggle-btn" onclick="toggleImage('${costume.id}', 1)">➡</button>
+                    </div>
+                </div>
+                <p class="bold-text">${costume.name}</p>
+                <p>ID: ${costume.id}</p>
+                <div class="details">
+                    <div>
+                        <p><b>Gender:</b> ${costume.gender}</p>
+                        <p><b>Category:</b> ${costume.category}</p>
+                        <p><b>Size:</b> ${costume.size}</p>
+                    </div>
+                    <div>
+                        <p><b>Count:</b> ${costume.count}</p>
+                    </div>
+                </div>
+            `;
+            container.appendChild(card);
+        });
+
+        function toggleImage(id, direction) {
+            const costume = costumes.find(c => c.id === id);
+            if (!costume) return;
+            let imgElement = document.getElementById(`image-${id}`);
+            let index = costume.images.indexOf(imgElement.src);
+            index = (index + direction + costume.images.length) % costume.images.length;
+            imgElement.src = costume.images[index];
+        }
+    </script>
+</body>
+</html>
