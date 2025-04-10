@@ -46,11 +46,20 @@ h1 {
 }
 
 .contact-button i {
-    color: #8c1d40;
+    color: #000;
 }
 
 .contact-button:hover {
     background-color: #e6e6e6;
+}
+
+.total-count {
+    margin-top:15px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #000;
 }
 
 
