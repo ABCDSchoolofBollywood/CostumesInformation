@@ -8,6 +8,8 @@ fetch('costumes.json')
         // Store the fetched data into the costumesArray
         costumesArray = costumes;
 
+        document.getElementById("total-count").textContent = `Total Costumes: ${costumesArray.length}`;
+
         // Dynamically create costume cards
         const container = document.querySelector(".container");
 
