@@ -145,7 +145,7 @@
         ]
     },
     {
-        "id": "4002",
+        "id": "4002B1R2",
         "name": "Yellow shirt half sleeves",
         "gender": "Male",
         "category": "Adults/Teens (13-18yrs)",
@@ -167,7 +167,7 @@
         ]
     },
     {
-        "id": "4004",
+        "id": "4004B1R3",
         "name": "Red towel",
         "gender": "Neutral",
         "category": "Adults/Teens (13-18yrs)",
@@ -189,7 +189,7 @@
         ]
     },
     {
-        "id": "4006",
+        "id": "4006B1R2",
         "name": "NY Black& white Baseball varsity jacket ",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -200,18 +200,18 @@
         ]
     },
     {
-        "id": "9000",
+        "id": "9000B1R3",
         "name": "Black elastic pants ",
         "gender": "Neutral",
         "category": "Sr Kids(9-12yrs)",
         "size": "M, L, XL",
-        "count": "12",
+        "count": "14",
         "photos": [
             "https://lh3.googleusercontent.com/d/1IHm5AhyCdaBCbfdt1-zX9QVU7mHa7UPs"
         ]
     },
     {
-        "id": "9001",
+        "id": "9001B1R3",
         "name": "Black pants with gemstones ",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -222,7 +222,7 @@
         ]
     },
     {
-        "id": "9002",
+        "id": "9002B1R2",
         "name": "Black elastic balloon pants",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -233,7 +233,7 @@
         ]
     },
     {
-        "id": "9003",
+        "id": "9003B1R3",
         "name": "Black velvet tank top",
         "gender": "Female",
         "category": "Jr Kids(5-8yrs)",
@@ -244,7 +244,7 @@
         ]
     },
     {
-        "id": "9004",
+        "id": "9004B1R3",
         "name": "Gold glitter jacket with black border ",
         "gender": "Neutral",
         "category": "Sr Kids(9-12yrs)",
@@ -255,7 +255,7 @@
         ]
     },
     {
-        "id": "9005",
+        "id": "9005B1R3",
         "name": "Black tank top thick straps",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -277,18 +277,18 @@
         ]
     },
     {
-        "id": "9007",
+        "id": "9007B0R2",
         "name": "red/silver sequin kurta/ shirt",
         "gender": "Male",
         "category": "Jr Kids(5-8yrs)",
         "size": "Custom size",
-        "count": "6",
+        "count": "7",
         "photos": [
             "https://lh3.googleusercontent.com/d/1OZHsqlmWLox3BbJa0BrHCpIdwoNl_LHv"
         ]
     },
     {
-        "id": "9008",
+        "id": "9008B0R2",
         "name": "Black sequin tank top with shorts",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -301,7 +301,7 @@
         ]
     },
     {
-        "id": "9009",
+        "id": "9009B1R3",
         "name": "Black mid sleeve sequin top and full sequin pants",
         "gender": "Female",
         "category": "Teens",
@@ -382,7 +382,7 @@
         ]
     },
     {
-        "id": "9015",
+        "id": "9015B0R1",
         "name": "Silver sequin tank top",
         "gender": "Female",
         "category": "Adults/Teens (13-18yrs)",
@@ -426,7 +426,7 @@
         ]
     },
     {
-        "id": "9019",
+        "id": "9019B0R2",
         "name": "Pink glittery top",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -459,7 +459,7 @@
         ]
     },
     {
-        "id": "9022",
+        "id": "9022B1R2",
         "name": "Full hand white shirt with silver sequin vest ",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -648,7 +648,7 @@
         "gender": "Female",
         "category": "Jr Kids(5-8yrs)",
         "size": "S, M",
-        "count": "11",
+        "count": "13",
         "photos": [
             "https://lh3.googleusercontent.com/d/1vwWq3fqzw2zqxrCn_jAWaZ4S9N3nmEAn",
             "https://lh3.googleusercontent.com/d/1G3CaMnBH-OAyerEr88JRQBkYMsnmhVA4",
@@ -783,7 +783,7 @@
         ]
     },
     {
-        "id": "1900",
+        "id": "1900T1R1",
         "name": "Purple One sided flared skirt",
         "gender": "Female",
         "category": "Adults/Teens (13-18yrs)",
@@ -838,7 +838,7 @@
         ]
     },
     {
-        "id": "1905",
+        "id": "1905B2R1",
         "name": "Silver Sparkly pants ",
         "gender": "Neutral",
         "category": "Jr Kids(5-8yrs)",
@@ -849,7 +849,7 @@
         ]
     },
     {
-        "id": "1906",
+        "id": "1906B0R1",
         "name": "Silver pants",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -860,7 +860,7 @@
         ]
     },
     {
-        "id": "1907",
+        "id": "1907B0R1",
         "name": "Silver pants(thick)",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -871,7 +871,7 @@
         ]
     },
     {
-        "id": "1908",
+        "id": "1908B0R2",
         "name": "Heram pants -silver",
         "gender": "Female",
         "category": "Adults/Teens (13-18yrs)",
@@ -893,7 +893,7 @@
         ]
     },
     {
-        "id": "4008",
+        "id": "4008B2R1",
         "name": "Purple floral design pattern full hands shirt",
         "gender": "Male",
         "category": "Adults/Teens (13-18yrs)",
@@ -926,7 +926,7 @@
         ]
     },
     {
-        "id": "4011",
+        "id": "4011T1R2",
         "name": "Red sequin hoddie jacket",
         "gender": "Neutral",
         "category": "Jr Kids(5-8yrs)",
@@ -937,7 +937,7 @@
         ]
     },
     {
-        "id": "4012",
+        "id": "4012T1R2",
         "name": "Green sequin top",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -948,7 +948,7 @@
         ]
     },
     {
-        "id": "4013",
+        "id": "4013B2R1",
         "name": "White ballon pants",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -959,7 +959,7 @@
         ]
     },
     {
-        "id": "4014",
+        "id": "4014B2R2",
         "name": "White pants",
         "gender": "Neutral",
         "category": "Sr Kids(9-12yrs)",
@@ -970,7 +970,7 @@
         ]
     },
     {
-        "id": "4015",
+        "id": "4015B0R3",
         "name": "White full frock",
         "gender": "Female",
         "category": "Adults/Teens (13-18yrs)",
@@ -981,7 +981,7 @@
         ]
     },
     {
-        "id": "4016",
+        "id": "4016B1R3",
         "name": "Green shiny/sparkly top backless",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -992,7 +992,7 @@
         ]
     },
     {
-        "id": "1109",
+        "id": "1109B0R3",
         "name": "Satin Purple pants ",
         "gender": "Female",
         "category": "Teens",
@@ -1003,7 +1003,7 @@
         ]
     },
     {
-        "id": "1110",
+        "id": "1110B3R3",
         "name": "Silver patched black overcoat zip and ropes",
         "gender": "Neutral",
         "category": "Sr Kids(9-12yrs)",
@@ -1025,7 +1025,7 @@
         ]
     },
     {
-        "id": "9023",
+        "id": "9023B3R1",
         "name": "Teal sequin vest ",
         "gender": "Male",
         "category": "Adults/Teens (13-18yrs)",
@@ -1036,7 +1036,7 @@
         ]
     },
     {
-        "id": "1112",
+        "id": "1112B0R2",
         "name": "Blue green cotton jacket w yellow hoodie",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -1047,7 +1047,7 @@
         ]
     },
     {
-        "id": "9024",
+        "id": "9024B1R2",
         "name": "Green silky baggy pants",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1058,7 +1058,7 @@
         ]
     },
     {
-        "id": "9025",
+        "id": "9025B0R1",
         "name": "Yellow silky baggy pants ",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1069,7 +1069,7 @@
         ]
     },
     {
-        "id": "9026",
+        "id": "9026B1R1",
         "name": "Pink silky baggy pants ",
         "gender": "Female",
         "category": "Teens",
@@ -1080,7 +1080,7 @@
         ]
     },
     {
-        "id": "9028",
+        "id": "9028B0R3",
         "name": "Teal and gold sequin tops with green satin pants",
         "gender": "Female",
         "category": "Teens",
@@ -1105,7 +1105,7 @@
         ]
     },
     {
-        "id": "9029",
+        "id": "9029B3R2",
         "name": "Kids velcro dhothi",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -1127,7 +1127,7 @@
         ]
     },
     {
-        "id": "9030",
+        "id": "9030T1R2",
         "name": "Green and blue collard shirt",
         "gender": "Male",
         "category": "Teens",
@@ -1151,7 +1151,7 @@
         ]
     },
     {
-        "id": "9032",
+        "id": "9032B0R3",
         "name": "White sleeveless top with sequin ",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1162,7 +1162,7 @@
         ]
     },
     {
-        "id": "9033",
+        "id": "9033B2R2",
         "name": "Green baggy flared pants with fancy white tank top ",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1175,7 +1175,7 @@
         ]
     },
     {
-        "id": "9034",
+        "id": "9034B2R2",
         "name": "Yellow sequin vest",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -1199,7 +1199,7 @@
         ]
     },
     {
-        "id": "4017",
+        "id": "4017B0R2",
         "name": "Pale pink/golden sequin top and pant",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1212,7 +1212,7 @@
         ]
     },
     {
-        "id": "4018",
+        "id": "4018B1R1",
         "name": "Dark Red mini shorts ",
         "gender": "Neutral",
         "category": "Jr Kids(5-8yrs)",
@@ -1247,7 +1247,7 @@
         ]
     },
     {
-        "id": "4021",
+        "id": "4021B1R3",
         "name": "Black sequin top full hands",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1258,7 +1258,7 @@
         ]
     },
     {
-        "id": "4022",
+        "id": "4022B0R1",
         "name": "Grey shiny sleeveless v neck coat",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -1269,7 +1269,7 @@
         ]
     },
     {
-        "id": "4023",
+        "id": "4023B1R2",
         "name": "Red shiny full hands coat with pockets",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -1280,7 +1280,7 @@
         ]
     },
     {
-        "id": "4024",
+        "id": "4024B0R2",
         "name": "Red/blue/green set of shiny shirts",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -1291,18 +1291,18 @@
         ]
     },
     {
-        "id": "4025",
+        "id": "4025B0R1",
         "name": "Yellow/blue/red shiny bow shirt with shorts set",
         "gender": "Male",
         "category": "Jr Kids(5-8yrs)",
         "size": "Custom size",
-        "count": "11",
+        "count": "12",
         "photos": [
             "https://lh3.googleusercontent.com/d/15P3LB8t_cM8mUnJtKD_HmVc7K6LBZukf"
         ]
     },
     {
-        "id": "4026",
+        "id": "4026B0R2",
         "name": "Dark gold sleeveless vest",
         "gender": "Neutral",
         "category": "Sr Kids(9-12yrs)",
@@ -1313,7 +1313,7 @@
         ]
     },
     {
-        "id": "4027",
+        "id": "4027B0R3",
         "name": "Blue sleeveless shinny coat with silver border",
         "gender": "Neutral",
         "category": "Jr Kids(5-8yrs)",
@@ -1324,7 +1324,7 @@
         ]
     },
     {
-        "id": "4028",
+        "id": "4028B1R1",
         "name": "Red/blue plain pants",
         "gender": "Female",
         "category": "Teens",
@@ -1346,7 +1346,7 @@
         ]
     },
     {
-        "id": "4030",
+        "id": "4030B0R3",
         "name": "Orange shiny sleeveless vest coat",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -1357,7 +1357,7 @@
         ]
     },
     {
-        "id": "4031",
+        "id": "4031B1R2",
         "name": "White baseball shirt",
         "gender": "Male",
         "category": "Jr Kids(5-8yrs)",
@@ -1368,7 +1368,7 @@
         ]
     },
     {
-        "id": "4032",
+        "id": "4032T1R1",
         "name": "Red shiny neck crop top",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1379,7 +1379,7 @@
         ]
     },
     {
-        "id": "4033",
+        "id": "4033T1R2",
         "name": "Cream long kurta",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1390,7 +1390,7 @@
         ]
     },
     {
-        "id": "4034",
+        "id": "4034B0R1",
         "name": "Gold pant with red/silver sequin",
         "gender": "Neutral",
         "category": "Sr Kids(9-12yrs)",
@@ -1412,7 +1412,7 @@
         ]
     },
     {
-        "id": "4036",
+        "id": "4036T1R2",
         "name": "Red stain elastic legginss",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1423,7 +1423,7 @@
         ]
     },
     {
-        "id": "4037",
+        "id": "4037T1R2",
         "name": "Pink/fluorescent stain pants  ",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1434,7 +1434,7 @@
         ]
     },
     {
-        "id": "4038",
+        "id": "4038B0R1",
         "name": "Velvet/green frock",
         "gender": "Female",
         "category": "Jr Kids(5-8yrs)",
@@ -1445,7 +1445,7 @@
         ]
     },
     {
-        "id": "4039",
+        "id": "4039B0R1",
         "name": "Pink shiny one sleeve frock",
         "gender": "Female",
         "category": "Jr Kids(5-8yrs)",
@@ -1456,7 +1456,7 @@
         ]
     },
     {
-        "id": "4040",
+        "id": "4040B0R3",
         "name": "Dark blue star transparent frock ",
         "gender": "Female",
         "category": "Jr Kids(5-8yrs)",
@@ -1467,7 +1467,7 @@
         ]
     },
     {
-        "id": "4041",
+        "id": "4041B0R2",
         "name": "Green cotton cloth ballon pants",
         "gender": "Female",
         "category": "Adults/Teens (13-18yrs)",
@@ -1478,7 +1478,7 @@
         ]
     },
     {
-        "id": "4042",
+        "id": "4042T1R1",
         "name": "Dark blue neck crop top with gem stones ",
         "gender": "Female",
         "category": "Sr Kids(9-12yrs)",
@@ -1489,7 +1489,7 @@
         ]
     },
     {
-        "id": "4043",
+        "id": "4043T1R2",
         "name": "Golden sparkly pants",
         "gender": "Neutral",
         "category": "Jr Kids(5-8yrs)",
@@ -1500,7 +1500,7 @@
         ]
     },
     {
-        "id": "4044",
+        "id": "4044T1R2",
         "name": "Beach theme shirt and pant ",
         "gender": "Male",
         "category": "Jr Kids(5-8yrs)",
@@ -1512,7 +1512,7 @@
         ]
     },
     {
-        "id": "4045",
+        "id": "4045B0R3",
         "name": "Golden satin jacket",
         "gender": "Male",
         "category": "Adults/Teens (13-18yrs)",
@@ -1523,7 +1523,7 @@
         ]
     },
     {
-        "id": "4046",
+        "id": "4046T1R1",
         "name": "White shirt with red shiny coat",
         "gender": "Male",
         "category": "Sr Kids(9-12yrs)",
@@ -1534,7 +1534,7 @@
         ]
     },
     {
-        "id": "4047",
+        "id": "4047T1R1",
         "name": "Red shiny full hands pull over jacket",
         "gender": "Neutral",
         "category": "Sr Kids(9-12yrs)",
@@ -1545,7 +1545,7 @@
         ]
     },
     {
-        "id": "4048",
+        "id": "4048B0R2",
         "name": "Blue one full hand with silver starp patch",
         "gender": "Neutral",
         "category": "Sr Kids(9-12yrs)",
@@ -1556,7 +1556,7 @@
         ]
     },
     {
-        "id": "4049",
+        "id": "4049T1R2",
         "name": "Punjabi blur kurta/pinkpank with pink turban and yellow cloth",
         "gender": "Male",
         "category": "Jr Kids(5-8yrs)",
@@ -1569,7 +1569,7 @@
         ]
     },
     {
-        "id": "4050",
+        "id": "4050B1R3",
         "name": "Black pants with suspenders ",
         "gender": "Neutral",
         "category": "Jr Kids(5-8yrs)",
@@ -1580,7 +1580,7 @@
         ]
     },
     {
-        "id": "4051",
+        "id": "4051T1R1",
         "name": "Girl pirate costume",
         "gender": "Female",
         "category": "Teens",
@@ -1591,7 +1591,7 @@
         ]
     },
     {
-        "id": "4052",
+        "id": "4052T1R1",
         "name": "Boys pirate costume",
         "gender": "Male",
         "category": "Teens",
@@ -1602,7 +1602,7 @@
         ]
     },
     {
-        "id": "4053",
+        "id": "4053B2R3",
         "name": "Plain red/green/black/orange tshirts",
         "gender": "Neutral",
         "category": "Teens",
@@ -1613,7 +1613,7 @@
         ]
     },
     {
-        "id": "4054",
+        "id": "4054B3R1",
         "name": "Superman logo shirt",
         "gender": "Neutral",
         "category": "Sr Kids(9-12yrs)",
@@ -1624,7 +1624,7 @@
         ]
     },
     {
-        "id": "4055",
+        "id": "4055B1R3",
         "name": "Blue sleeveless tshirt",
         "gender": "Neutral",
         "category": "Teens",
